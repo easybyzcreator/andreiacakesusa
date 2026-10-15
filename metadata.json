@@ -1,0 +1,6 @@
+{
+  "name": "Andréia Cakes USA",
+  "description": "Custom & Artisanal Cakes and Sweets - Andréia Cakes USA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
